@@ -1,5 +1,5 @@
 # adminer-forced-server
-Plugin for Adminer (updated for version 5.0), restricted login to config-defined server
+Plugin for Adminer (updated for version 5.3), restricted login to config-defined server
 
 Based on official (but not working at this time)  [login-servers](https://raw.github.com/vrana/adminer/master/plugins/login-servers.php) for [Adminer](https://www.adminer.org/) with enhancements.<br />
 And inspired by CrazyMax's [login-servers-enhanced]( https://github.com/crazy-max/login-servers-enhanced/)
